@@ -1,0 +1,10 @@
+data/
+*.db
+*.sqlite
+*.joblib
+*.h5
+*.keras
+*.pkl
+*.csv
+venv/
+.venv/
